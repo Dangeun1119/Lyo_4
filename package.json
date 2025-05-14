@@ -1,5 +1,5 @@
 {
-  "name": "kv-rp-vercel",
+  "name": "kv-rp-vercel-ts",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -12,5 +12,10 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "recharts": "^2.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.5.9"
   }
 }
